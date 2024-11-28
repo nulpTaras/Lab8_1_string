@@ -1,0 +1,14 @@
+# ninja log v6
+1	1716	1732782819951064329	CMakeFiles/Lab8_1_string.dir/src/main.cpp.o	bcf597e9c3e09428
+1723	1857	1732782821672572378	Lab8_1_string	1d6e1fdd2136ef81
+8	148	1732782847284979676	CMakeFiles/MyTests.dir/tests/testfile.cpp.o	4fed2d1303161ec3
+6	2081	1732782847283790170	CMakeFiles/MyLibrary.dir/src/functions.cpp.o	7e6ebe583199833e
+6	2114	1732782847283402814	CMakeFiles/MyLibrary.dir/src/main.cpp.o	26564179f3ed13b3
+2114	2293	1732782849391700772	libMyLibrary.a	d9b64a8ffc32c6f8
+7	2652	1732782847284431201	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	14f70f5287460aa2
+5	5830	1732782847282768697	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	a91f4a4e8ccf2ec9
+5830	6042	1732782853108060317	lib/libgtestd.a	a8cb4fff94c38c42
+6042	6203	1732782853319897355	lib/libgtest_maind.a	10b76d6713bc2055
+6204	6332	1732782853481120192	MyTests	b8aeb5f7a569c1c6
+30	2623	1732782970263529893	CMakeFiles/MyTests.dir/tests/testfile.cpp.o	4fed2d1303161ec3
+2624	2757	1732782972857017314	MyTests	b8aeb5f7a569c1c6
